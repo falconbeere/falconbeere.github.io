@@ -70,3 +70,7 @@ img {
   width: 300px;
   height: 500px;
 }
+div[class*="Narnia"] {
+  width: 400px;
+  height: 3oopx;
+}
