@@ -67,7 +67,8 @@ p {
   background-repeat: no-repeat;
 }
 img {
-  background-size: 50%;
+  background-size: 25%;
+  background: white;
 }
 div[class*="Narnia"] {
   width: 400px;
