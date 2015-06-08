@@ -66,3 +66,7 @@ p {
   background-size: 100%;
   background-repeat: no-repeat;
 }
+img {
+  width: 200px;
+  height: 600px;
+}

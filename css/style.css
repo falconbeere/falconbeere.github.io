@@ -1,6 +1,6 @@
 body {
-  background: url('http://www.psdgraphics.com/file/stars.jpg')
-}
+    background-image: url('../img/stardust.png');
+ }
 a:link {
   color: #02E8DB;
   float: right;
@@ -60,4 +60,13 @@ p {
 
 .header {
   width: 80%;
+}
+.me {
+  background: url('../img/magic.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+img {
+  width: 200px;
+  height: 200px;
 }
