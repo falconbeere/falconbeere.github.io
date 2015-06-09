@@ -30,6 +30,19 @@ a:visted {
 a:hover {
   color: #048EB2;
 }
+ul li {
+  color: #048EB2;
+  float: right;
+  font-size: 1em;
+  font-family: 'Droid Serif', serif;
+
+}
+ul li ul {
+  color: #048EB2;
+  float: right;
+  font-size: 1em;
+  font-family: 'Droid Serif', serif;
+}
 
 h1 {
   font-family: 'Cinzel', serif;
