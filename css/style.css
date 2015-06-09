@@ -32,6 +32,16 @@ h1 {
   text-weight: 700;
   -webkit-animation: namefade 5s infinite;
 }
+h2 {
+  color: #048EB2;
+  font-family: 'Droid Serif', serif;
+  font-size: 2.3em;
+}
+h3 {
+  color: #048EB2;
+  font-family: 'Droid Serif', serif;
+  font-size: 2em;
+}
 p {
   color: #048EB2;
   text-align: center;
