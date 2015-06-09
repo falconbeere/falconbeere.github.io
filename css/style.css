@@ -123,11 +123,6 @@ p {
 .blurb {
   width: 80%;
 }
-.me {
-  width: 800px;
-  height: 600px;
-  max-width: 100;
-}
 
 img {
   width: 250px;
@@ -146,6 +141,10 @@ div span img {
 .meeee {
   width: 300px;
   height: 350px;
+}
+.rawr {
+  width: 600px;
+  height: 700px;
 }
 .second {
   text-align: center;
