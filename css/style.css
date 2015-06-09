@@ -31,20 +31,20 @@ h1 {
   margin-left: 50px;
   margin-top: 30px;
   text-weight: 700;
-  text-align: center;
+  margin: 100px;
   -webkit-animation: namefade 5s infinite;
 }
 h2 {
   color: #048EB2;
   font-family: 'Droid Serif', serif;
   font-size: 2.3em;
-  text-align: center;
+  margin: 100px;
 }
 h3 {
   color: #048EB2;
   font-family: 'Droid Serif', serif;
   font-size: 1.6em;
-  text-align: center;
+  margin: 100px;
 }
 h5 {
   color: #048EB2;
