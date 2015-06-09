@@ -43,6 +43,19 @@ ul li ul {
   font-size: 1em;
   font-family: 'Droid Serif', serif;
 }
+ol li {
+  color: #048EB2;
+  float: right;
+  font-size: 1em;
+  font-family: 'Droid Serif', serif;
+}
+
+ol li ul {
+  color: #048EB2;
+  float: right;
+  font-size: 1em;
+  font-family: 'Droid Serif', serif;
+}
 
 h1 {
   font-family: 'Cinzel', serif;
