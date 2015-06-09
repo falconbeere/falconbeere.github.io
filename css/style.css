@@ -31,20 +31,20 @@ h1 {
   margin-left: 50px;
   margin-top: 30px;
   text-weight: 700;
-  margin: 100px;
+  margin: 50px;
   -webkit-animation: namefade 5s infinite;
 }
 h2 {
   color: #048EB2;
   font-family: 'Droid Serif', serif;
   font-size: 2.3em;
-  margin: 100px ;
+  margin: 50px ;
 }
 h3 {
   color: #048EB2;
   font-family: 'Droid Serif', serif;
   font-size: 1.6em;
-  margin: 100px 50px 100px 200px;
+  margin: 50px;
 }
 h5 {
   color: #048EB2;
@@ -56,7 +56,7 @@ h5 {
 p {
   color: #048EB2;
   font-size: 1.4em;
-  margin: 100px;
+  margin: 50px;
 }
 @-webkit-keyframes namefade {
   0% { 
