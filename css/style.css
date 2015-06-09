@@ -113,10 +113,12 @@ p {
 
 .header {
   width: 70%;
+  float: left;
 }
 
 .main {
   width: 50%;
+  float: right;
 }
 .blurb {
   width: 80%;
