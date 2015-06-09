@@ -120,7 +120,13 @@ p {
   width: 50%;
   float: right;
 }
-.blurb {
+
+.blurb,
+.wat,
+.personal,
+.school,
+.hello,
+.resume {
   width: 80%;
 }
 
