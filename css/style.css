@@ -111,4 +111,16 @@ div span img {
   body {
     background-image: url('../img/foggy_birds.png');
   }
+  img {
+    width: 150px;
+    height: 250px;
+    padding: 7px;
+    margin-left: 15px;
+  }
+  div span img {
+    width: 300px;
+    height: 200px;
+    padding: 8px;
+    margin-left: 15px;
+  }
 }
