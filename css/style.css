@@ -1,6 +1,7 @@
 body {
     background-image: url('../img/stardust.png');
  }
+
 a:link {
   color: #02E8DB;
   float: right;
@@ -9,22 +10,27 @@ a:link {
   text-decoration: none;
   display: inline-block;
 }
+
 li {
   display: inline-block;
   float: right;
   padding: .5em .5em;
 }
+
 a {
   font-family: 'Droid Serif', serif;
   font-size: 1.2em;
   /*text-transform: lowercase;*/
 }
+
 a:visted {
   color: #0BCCFF;
 }
+
 a:hover {
   color: #048EB2;
 }
+
 h1 {
   font-family: 'Cinzel', serif;
   font-size: 2.6em;
@@ -34,30 +40,27 @@ h1 {
   margin: 50px;
   -webkit-animation: namefade 5s infinite;
 }
+
 h2 {
   color: #048EB2;
   font-family: 'Droid Serif', serif;
   font-size: 2.3em;
   margin: 50px ;
 }
+
 h3 {
   color: #048EB2;
   font-family: 'Droid Serif', serif;
   font-size: 1.6em;
   margin: 50px;
 }
-h5 {
-  color: #048EB2;
-  font-size: 1em;
-  display: block;
-  -webkit-margin-before: 1.67em;
-  -webkit-margin-after: 1.67em;
-}
+
 p {
   color: #048EB2;
   font-size: 1.4em;
   margin: 50px;
 }
+
 @-webkit-keyframes namefade {
   0% { 
     color: #02E8DB;
@@ -81,6 +84,7 @@ p {
 .header {
   width: 80%;
 }
+
 .me {
   background: url('../img/magic.jpg');
   width: 300px;
@@ -92,14 +96,17 @@ p {
     -o-transform: rotate(180deg);
     transform: rotate(180deg);
 }
+
 img {
   width: 300px;
   height: 400px;
   padding: 10px;
+  margin: 0 0 50px 0;
 }
 
 div span img {
   width: 600px;
   height: 400px;
   padding: 10px;
+  margin: 0 0 50px 0;
 }
