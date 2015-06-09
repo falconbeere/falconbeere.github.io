@@ -168,14 +168,14 @@ ul{
     }
     ul li a{
         display: block;
-        padding: 5px 10px;
-        color: #0BCCFF;
+        padding: 5px 5px;
+        color: #048EB2;
         background: #02E8DB;
         text-decoration: none;
     }
     ul li a:hover{
         color: #02E8DB;
-        background: #0BCCFF;
+        background: #048EB2;
     }
     ul li ul{
         display: none;
