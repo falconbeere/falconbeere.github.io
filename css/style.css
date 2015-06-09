@@ -35,16 +35,19 @@ ul li {
   float: left;
   font-size: 1em;
   font-family: 'Droid Serif', serif;
+  display: inline-block;
 
 }
 ul li ul {
   color: #048EB2;
+  display: inline-block;
   float: left;
   font-size: 1em;
   font-family: 'Droid Serif', serif;
 }
 ol li {
   color: #048EB2;
+  display: inline-block;
   float: left;
   font-size: 1em;
   font-family: 'Droid Serif', serif;
@@ -52,6 +55,7 @@ ol li {
 
 ol li ul {
   color: #048EB2;
+  display: inline-block;
   float: left;
   font-size: 1em;
   font-family: 'Droid Serif', serif;
