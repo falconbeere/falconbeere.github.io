@@ -115,6 +115,12 @@ p {
   width: 70%;
 }
 
+.main {
+  width: 50%;
+}
+.blurb {
+  width: 80%;
+}
 .me {
   width: 800px;
   height: 600px;
