@@ -2,14 +2,14 @@ body {
     background-image: url('../img/stardust.png');
  }
 
-a:link {
+/*a:link {
   color: #02E8DB;
   float: right;
   list-style: none;
   margin: 30px auto;
   text-decoration: none;
   display: inline-block;
-}
+}*/
 
 li {
   display: inline-block;
@@ -17,13 +17,13 @@ li {
   padding: .5em .5em;
 }
 
-a {
+/*a {
   font-family: 'Droid Serif', serif;
   font-size: 1.2em;
-  /*text-transform: lowercase;*/
-}
+  /*text-transform: lowercase;
+}*/
 
-a:visted {
+/*a:visted {
   color: #0BCCFF;
 }
 
@@ -37,7 +37,7 @@ ul li {
   font-family: 'Droid Serif', serif;
   display: inline-block;
 
-}
+}*/
 ul li ul {
   color: #048EB2;
   display: inline-block;
@@ -155,6 +155,37 @@ div span img {
 .second {
   text-align: center;
 }
+ul{
+        padding: 0;
+        list-style: none;
+    }
+    ul li{
+        width: 100px;
+        display: inline-block;
+        position: relative;
+        text-align: center;
+        line-height: 21px;
+    }
+    ul li a{
+        display: block;
+        padding: 5px 10px;
+        color: #333;
+        background: #f2f2f2;
+        text-decoration: none;
+    }
+    ul li a:hover{
+        color: #fff;
+        background: #939393;
+    }
+    ul li ul{
+        display: none;
+        position: absolute;
+        z-index: 999;
+        left: 0;
+    }
+    ul li:hover ul{
+        display: block; /* display the dropdown */
+    }
 
 @media screen and (max-width: 900px) {
   img {
