@@ -32,27 +32,27 @@ a:hover {
 }
 ul li {
   color: #048EB2;
-  float: right;
+  float: left;
   font-size: 1em;
   font-family: 'Droid Serif', serif;
 
 }
 ul li ul {
   color: #048EB2;
-  float: right;
+  float: left;
   font-size: 1em;
   font-family: 'Droid Serif', serif;
 }
 ol li {
   color: #048EB2;
-  float: right;
+  float: left;
   font-size: 1em;
   font-family: 'Droid Serif', serif;
 }
 
 ol li ul {
   color: #048EB2;
-  float: right;
+  float: left;
   font-size: 1em;
   font-family: 'Droid Serif', serif;
 }
