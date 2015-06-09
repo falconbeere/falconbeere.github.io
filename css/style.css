@@ -108,5 +108,7 @@ div span img {
 }
 
 @media screen and (max-width: 600px) {
-  background-image: url('../img/foggy_birds.png');
+  body {
+    background-image: url('../img/foggy_birds.png');
+  }
 }
