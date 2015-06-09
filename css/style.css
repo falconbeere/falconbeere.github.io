@@ -164,11 +164,11 @@ ul{
         display: inline-block;
         position: relative;
         text-align: center;
-        line-height: 21px;
+        line-height: 15px;
     }
     ul li a{
         display: block;
-        padding: 5px 5px;
+        padding: 3px 5px;
         color: #048EB2;
         background: #02E8DB;
         text-decoration: none;
