@@ -121,6 +121,8 @@ p {
   float: right;
 }
 
+.form,
+.haha,
 .blurb,
 .wat,
 .personal,
@@ -150,7 +152,7 @@ div span img {
 }
 .rawr {
   width: 300px;
-  height: 350px;
+  height: 300px;
 }
 .second {
   text-align: center;
