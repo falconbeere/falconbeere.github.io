@@ -127,7 +127,7 @@ p {
 .school,
 .hello,
 .resume {
-  width: 80%;
+  width: 70%;
 }
 
 img {
@@ -149,8 +149,8 @@ div span img {
   height: 350px;
 }
 .rawr {
-  width: 600px;
-  height: 700px;
+  width: 300px;
+  height: 350px;
 }
 .second {
   text-align: center;
@@ -168,7 +168,7 @@ ul{
     }
     ul li a{
         display: block;
-        padding: 3px 5px;
+        padding: 5px 3px;
         color: #048EB2;
         background: #02E8DB;
         text-decoration: none;
