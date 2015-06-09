@@ -123,4 +123,9 @@ div span img {
     padding: 8px;
     margin-left: 15px;
   }
+  p {
+    display: inline;
+    margin: 75px;
+    padding: 30px;
+  }
 }
