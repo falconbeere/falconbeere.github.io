@@ -63,7 +63,8 @@ p {
 }
 .me {
   background: url('../img/magic.jpg');
-  background-size: 100%;
+  width: 300px;
+  height: 400px;
   background-repeat: no-repeat;
   -webkit-transform: rotate(180deg);
     -moz-transform: rotate(180deg);
