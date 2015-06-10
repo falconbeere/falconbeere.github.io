@@ -124,10 +124,13 @@ p {
 
 .meow,
 .haha,
-.blurb,
 .wat,
 .resume {
   width: 70%;
+}
+.blurb {
+  width: 70%;
+  padding-left: 75px;
 }
 .form {
   width: 60%;
@@ -148,6 +151,7 @@ img {
   width: 250px;
   height: 350px;
   padding: 10px;
+  padding-left: 75px;
   margin-left: 50px;
   display: inline-block;
 }
