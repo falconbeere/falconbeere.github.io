@@ -171,6 +171,10 @@ div span img {
 .second {
   text-align: center;
 }
+header {
+  background: url("../img/xv.png");
+  padding: 10px 10px;
+}
 ul{
         padding: 0;
         list-style: none;
