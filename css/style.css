@@ -48,15 +48,18 @@ ol li {
 }
 
 .descrip {
+  width: 500px;
   color: #048EB2;
-  display: inline-block;
-  float: left;
-  font-size: 1em;
+  font-size: .7em;
+  margin: 50px;
+  list-style: circle;
+  display: list-item;
+  text-align: left;
   font-family: 'Droid Serif', serif;
 }
 
-title, 
-h1 {
+
+h1{
   font-family: 'Cinzel', serif;
   font-size: 2.6em;
   margin-left: 50px;
@@ -81,8 +84,24 @@ h3 {
 }
 
 .why, 
-.fucku,
-.workalready,
+.workalready li{
+  width: 500px;
+  color: #048EB2;
+  font-size: 1.4em;
+  margin: 50px;
+  list-style: circle;
+  display: list-item;
+  text-align: left;
+}
+.fucku {
+    width: 500px;
+  color: #048EB2;
+  font-size: 1em;
+  margin: 50px;
+  list-style: circle;
+  display: list-item;
+  text-align: left;
+}
 p {
   color: #048EB2;
   font-size: 1.4em;
@@ -176,6 +195,7 @@ div span img {
   width: 300px;
   height: 300px;
   margin: 0 auto;
+  padding: 10px;
   border-radius: 150px;
 }
 .turtle {
@@ -188,6 +208,7 @@ div span img {
 header {
   background: url("../img/xv.png");
   padding: 10px 10px;
+  height : 195px;
 }
 ul{
         padding: 0;
