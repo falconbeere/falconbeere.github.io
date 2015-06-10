@@ -11,12 +11,6 @@ body {
   display: inline-block;
 }*/
 
-li {
-  display: inline-block;
-  float: right;
-  padding: .5em .5em;
-}
-
 /*a {
   font-family: 'Droid Serif', serif;
   font-size: 1.2em;
@@ -132,6 +126,9 @@ p {
   width: 70%;
   padding-left: 75px;
 }
+.bio {
+  padding-left: 75px;
+}
 .form {
   width: 60%;
   display: block;
@@ -175,7 +172,6 @@ div span img {
   height: 300px;
   margin: 0 auto;
   border-radius: 150px;
-  padding-top: 20px;
 }
 .turtle {
   width: 350px;
