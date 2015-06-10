@@ -167,13 +167,14 @@ div span img {
   height: 300px;
   margin: 0 auto;
   border-radius: 150px;
+  padding-top: 20px;
 }
 .second {
   text-align: center;
 }
 header {
   background: url("../img/xv.png");
-  padding: 6px 6px;
+  padding: 10px 10px;
 }
 ul{
         padding: 0;
