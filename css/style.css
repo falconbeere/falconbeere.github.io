@@ -169,6 +169,10 @@ div span img {
   border-radius: 150px;
   padding-top: 20px;
 }
+.turtle {
+  width: 350px;
+  height: 250px;
+}
 .second {
   text-align: center;
 }
