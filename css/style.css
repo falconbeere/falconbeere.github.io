@@ -119,13 +119,13 @@ p {
 .main {
   width: 50%;
   float: right;
+  margin-right: 100px;
 }
 
 .meow,
 .haha,
 .blurb,
 .wat,
-.hello,
 .resume {
   width: 70%;
 }
@@ -133,6 +133,11 @@ p {
   width: 60%;
   display: block;
 }
+.hello {
+  width: 70%;
+  float: right;
+}
+
 .school,
 .personal {
   display: inline-block;
@@ -162,6 +167,7 @@ div span img {
   height: 300px;
   margin: 0 auto;
   border-radius: 150px;
+  float: left;
 }
 .second {
   text-align: center;
