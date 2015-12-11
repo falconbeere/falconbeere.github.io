@@ -1,5 +1,5 @@
 body {
-    background-image: url('../img/stardust.png');
+  background-image: url('../img/sativa.png');
  }
 
 ul li ul {
@@ -20,7 +20,7 @@ ol li {
 .descrip {
   width: 500px;
   color: #048EB2;
-  font-size: .7em;
+  font-size: .85em;
   margin: 50px;
   list-style: circle;
   display: list-item;
@@ -30,21 +30,22 @@ ol li {
 
 
 h1{
-  font-family: 'Cinzel', serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 2.6em;
   margin-left: 50px;
   margin-top: 30px;
   text-weight: 700;
   margin: 50px;
-  -webkit-animation: namefade 5s infinite;
+  color: #9BBF4A;
 }
 .fuckit {
-  font-family: 'Cinzel', serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 2.6em;
   margin-left: 50px;
   margin-top: 30px;
   margin: 50px;
-  color: #048EB2;
+  color: #9BBF4A;
+  text-decoration: none;
 }
 
 h2 {
@@ -65,8 +66,9 @@ h3 {
 .workalready li{
   width: 500px;
   color: #048EB2;
-  font-size: 1.4em;
-  margin: 50px;
+  font-size: 1.2em;
+  margin: 38px;
+  margin-left: 95px;
   list-style: circle;
   display: list-item;
   text-align: left;
@@ -81,30 +83,9 @@ h3 {
   text-align: left;
 }
 p {
-  color: #048EB2;
-  font-size: 1.4em;
-  margin: 50px;
-}
-
-
-@-webkit-keyframes namefade {
-  0% { 
-    color: #02E8DB;
-  }
-  25% {
-    color: #02CEC3;
-  }
-  
-  50% {
-    color: #01A89F;
-  }
-  75% {
-    color: #016863;
-  }
-  
-  100% { 
-    color: #02CEC3;
-  }
+  color: #2F6380;
+  font-size: 1.2em;
+  margin: 18px;
 }
 
 .header {
@@ -184,7 +165,6 @@ div span img {
   text-align: center;
 }
 header {
-  background: url("../img/xv.png");
   padding: 10px 10px;
   height : 195px;
 }
@@ -197,18 +177,22 @@ ul{
         display: inline-block;
         position: relative;
         text-align: center;
-        line-height: 15px;
+        line-height: 24px;
     }
     ul li a{
         display: block;
-        padding: 5px 3px;
-        color: #048EB2;
-        background: #02E8DB;
+        padding: 12px 25px;
+        color: #2F6380;
+        background: #9BBF4A;
         text-decoration: none;
+        position: fixed;
+        top: 0;
+        width: 98px;
+        height: 30px;
     }
     ul li a:hover{
-        color: #02E8DB;
-        background: #048EB2;
+        color: #9BBF4A;
+        background: #2F6380;
     }
     ul li ul{
         display: none;
