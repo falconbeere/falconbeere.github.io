@@ -219,13 +219,13 @@ ul{
     }
     ul li a{
         display: block;
-        padding: .5em;
+        padding: .2em;
         color: #2F6380;
         background: #9BBF4A;
         text-decoration: none;
         position: fixed;
         top: 0;
-        width:98px;
+        width:106px;
         height: 25px;
          text-align: center;
     }
