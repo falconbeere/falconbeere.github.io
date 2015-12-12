@@ -273,6 +273,18 @@ ul{
         text-align: center;
         line-height: 18px;
       }
+ ul li a{
+        display: block;
+        padding: .5em;
+        color: #2F6380;
+        background: #9BBF4A;
+        text-decoration: none;
+        position: fixed;
+        top: 0;
+        width:90px;
+        height: 25px;
+         text-align: center;
+    }
 }
 .poly {
   width: 275px;
@@ -291,6 +303,18 @@ ul{
   .hello {
     width: 65%;
   }
+  ul li a{
+        display: block;
+        padding: .45em;
+        color: #2F6380;
+        background: #9BBF4A;
+        text-decoration: none;
+        position: fixed;
+        top: 0;
+        width:85px;
+        height: 25px;
+         text-align: center;
+    }
 }
 
 @media screen and (max-width: 700px) {
@@ -368,6 +392,18 @@ ul{
         text-align: center;
         line-height: 21px;
       }
+    ul li a {
+        display: inline-block;
+        padding: .4em;
+        color: #2F6380;
+        background: #9BBF4A;
+        text-decoration: none;
+        position: fixed;
+        top: 0;
+        width:50px;
+        height: 20px;
+         text-align: center;
+    }
       .poly {
   width: 275px;
   height: 200px;
