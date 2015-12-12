@@ -261,11 +261,11 @@ ul{
     margin: 75px;
     padding: 35px;
   }
-  header {
+  /*header {
   background: url("../img/xv.png");
   padding: 10px 10px;
   height : 228px;
-  }
+  } */
   ul li{
         width: 100px;
         display: inline-block;
@@ -284,10 +284,10 @@ ul{
 }
 @media screen and (max-width: 730px) {
    header {
-  background: url("../img/xv.png");
+  /*background: url("../img/xv.png");
   padding: 10px 10px;
   height : 280px;
-  }
+  }*/
   .hello {
     width: 65%;
   }
@@ -315,10 +315,10 @@ ul{
     padding: 30px;
   }
   header {
-  background: url("../img/xv.png");
+  /*background: url("../img/xv.png");
   padding: 10px 10px;
   height : 230px;
-  }
+  }*/
    ul li{
         width: 100px;
         display: inline-block;
@@ -356,11 +356,11 @@ ul{
     margin: 75px;
     padding: 30px;
   }
-  header {
+  /*header {
   background: url("../img/xv.png");
   padding: 10px 10px;
   height: 300px;
-  }
+  }*/
    ul li{
         width: 100px;
         display: inline-block;
